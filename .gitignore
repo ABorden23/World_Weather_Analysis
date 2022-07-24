@@ -2,6 +2,7 @@
 config.py
 config_vacation_search.py
 config_weather_database.py
+config_vacation_itinerary.py
 
 
 
